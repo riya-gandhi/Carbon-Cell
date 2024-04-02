@@ -1,7 +1,7 @@
 To run and test any JS File in the Root Folder: node <filename.js>
 For Instance:
-1. `npm i` 
-2. `node user_auth_jwt.js`
+- `npm i` 
+- `node user_auth_jwt.js`
 
 1. user_auth_jwt.js
 ![image](https://github.com/riya-gandhi/Carbon-Cell/assets/63222339/464453ea-30a6-44f8-a1ea-842463f802f9)
